@@ -3,7 +3,7 @@
 Summary:    Helper class for launching cross-platform applications
 Name:       rubygem-%{oname}
 Version:    0.3.7
-Release:    %mkrel 1
+Release:    2
 Group:      Development/Ruby
 License:    ISC License
 URL:        http://copiousfreetime.rubyforge.org/launchy/

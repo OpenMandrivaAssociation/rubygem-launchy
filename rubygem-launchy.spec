@@ -6,7 +6,7 @@ Version:    0.3.7
 Release:    2
 Group:      Development/Ruby
 License:    ISC License
-URL:        http://copiousfreetime.rubyforge.org/launchy/
+URL:        https://copiousfreetime.rubyforge.org/launchy/
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:   rubygems
